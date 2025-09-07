@@ -117,5 +117,4 @@ Layered approach: Clear separation of Core, Data, and Feature layers.
 
 📱 APK Demo Video
 Experience the app in action:
-📹 https://drive.google.com/file/d/1f3qkuySVNEp7sVBueb4CVshvwl3yflp1/view?usp=sharing
-
+https://drive.google.com/file/d/1pNtaK9pK1sLWEv5lk23ZE2uiLRsBBYkt/view?usp=sharing
