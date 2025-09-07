@@ -1,0 +1,2 @@
+/Users/asifmahmud/StudioProjects/raintor_task/android/app/.cxx/Debug/4q154m2u/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/asifmahmud/StudioProjects/raintor_task/android/app/.cxx/Debug/4q154m2u/arm64-v8a/CMakeFiles/rebuild_cache.dir
